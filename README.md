@@ -6,6 +6,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="150" src="https://media1.tenor.com/m/IoIVL_B7oScAAAAd/dexter-dexter-stare.gif"  />
 
 ###
@@ -47,28 +49,6 @@
   </a>
   <a href="https://www.linkedin.com/in/sebastiencarl" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/httpsbz/httpsbz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/httpsbz/httpsbz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/httpsbz/httpsbz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img align="right" height="350" src="https://media1.tenor.com/m/mLOHQJCayyAAAAAC/sigma-patrick.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/22j5aqgia54mslrt4iw7drsty">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22j5aqgia54mslrt4iw7drsty&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
